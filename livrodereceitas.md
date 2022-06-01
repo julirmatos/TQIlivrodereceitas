@@ -2,13 +2,13 @@
 
 ### Ingredientes
 
-2 copos (americano) de leite morno
-2 ovos inteiros
-50 g de fermento fresco ou 3 tabletes de 15 g cada
-1/2 copo (americano) de óleo
-1 xícara (chá) de açúcar
-1 kg de farinha de trigo sem fermento (reserve uma xícara e só use-a se for necessário)
-1/2 colher (sopa) de sal
+- 2 copos (americano) de leite morno
+- 2 ovos inteiros
+- 50 g de fermento fresco ou 3 tabletes de 15 g cada
+- 1/2 copo (americano) de óleo
+- 1 xícara (chá) de açúcar
+- 1 kg de farinha de trigo sem fermento (reserve uma xícara e só use-a se for necessário)
+- 1/2 colher (sopa) de sal
 
 ### Modo de Preparo
 Em um liquidificador, coloque todos os ingredientes, menos o sal e a farinha (pois o sal mata o fermento)
